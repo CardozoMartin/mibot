@@ -1,0 +1,59 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3F9F77B031F4394F0DA8',
+    participant: undefined
+  },
+  messageTimestamp: 1747374961,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola dev',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola dev',
+  from: '5493812032666'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_39b9cbf9-5abf-4a6e-b35c-4ec080c4a795',
+  keyword: 'key_85b150b6-0c94-4223-827a-a168603da117',
+  answer: '¡Hola! Soy Martin Cardozo, desarrollador full stack. 🚀',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b2526002ed7c7b0edf14580390ec177'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42a46828-d675-459d-9cd6-55e5e18ad6a4',
+  keyword: 'ans_39b9cbf9-5abf-4a6e-b35c-4ec080c4a795',
+  answer: 'Estoy listo para presentarte mi perfil y lo que puedo ofrecerte. ¡Empecemos!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd7a400acb8b4bcdf391c863fab23f6b9'
+}
