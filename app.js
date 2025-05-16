@@ -12,7 +12,7 @@ const perfil = {
         "JavaScript", "TypeScript", "Node.js", "MongoDB", "MySQL",
         "Java", "Spring Boot", "NestJS", "React", "HTML", "CSS"
     ],
-    portafolio: "https://tuportafolio.com" // Reemplaza con el enlace real a tu portafolio
+    portafolio: "https://miportafolio20.netlify.app/" // Reemplaza con el enlace real a tu portafolio
 };
 
 const proyectos = [
@@ -148,9 +148,9 @@ const flowContacto = addKeyword(EVENTS.ACTION)
     .addAnswer(
         "📞 *Contáctame* 📞\n" +
         "Estoy listo para colaborar en tu próximo proyecto:\n" +
-        "- 📧 Email: tunombre@email.com\n" +
+        "- 📧 Email: martincardozo1993xp@gmail.com\n" +
         "- 🌐 Portafolio: " + perfil.portafolio + "\n" +
-        "- 📱 WhatsApp: +123 456 7890\n" +
+        "- 📱 WhatsApp: +3812032666\n" +
         "¡Hablemos y hagamos realidad tus ideas!"
     )
     .addAnswer(
